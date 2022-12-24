@@ -1,5 +1,87 @@
 .patients_background{
+                    background-color:#00ccb1;
+                    width:17% ;
+                    color: white;
+                    border-radius: 10px;
+                    padding-left:30px ;
+                    padding-right:30px ;
+                    padding-top:30px ;
+                    padding-bottom:30px ;
+                    
+                    }
+.formpad{
+    padding-top:70px ;
+       
+        }
+.sel{
+                     border: none;
+                     background: none;
+                     color: white;
+                     text-decoration: underline;
+    }
+.sel option{
+                     color: black;
+           }
+.doctor_background{
+                     background-color: #3d83df;
+                     width: 17%;
+                     color:whitesmoke ;
+                     border-radius: 10px;
+                     padding-left:30px ;
+                     padding-right:30px ;
+                     padding-top:30px ;
+                     padding-bottom:30px ;
+                     margin-top: 13px;
+                     margin-left: 310px;
 
-
+                     
+}           
+.formfd{
+                     padding-top: 70px;
+}
+.sel2{
+                     border: none;
+                     background: none;
+                     color: white;
+                     text-decoration: underline;
+}
+.sel2 option{
+                     color: black;
+}
+.clinics{
+    background-color:#1b2734 ;
+    width: 17%;
+    color:whitesmoke ;
+    border-radius: 10px;
+    padding-left:30px ;
+    padding-right:30px ;
+    padding-top:30px ;
+    padding-bottom:30px ;
+    margin-top: 13px;
+    margin-left: 310px;
     
+}
+
+.forclinics{
+    padding-top: 170px;
+}
+.sel3{
+    border: none;
+    background: none;
+    color: white;
+    text-decoration: underline;
+    margin-top: 80px;
+}
+.sel3 option{
+    color: black;
+}
+.sel4{
+    border: none;
+    background: none;
+    color: white;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+.sel4 option{
+    color: black;
 }
