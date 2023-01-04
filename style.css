@@ -1,6 +1,52 @@
+.flex{
+    display: flex;
+}
+.logo{
+    width: 20%;
+    height: 20%;
+}
+.hh{
+    margin-left: 10px;
+    margin-left: 20px;
+    color: #00b39b;
+}
+.hhh{
+    margin-left: 20px;
+    color: #ababab;;
+}
+.hhhh{
+    margin-left: 25px;
+    margin-right: 20px;
+    color: #747474;
+}
+ul{
+    list-style-type:none;
+}
+.lead{
+    margin-top: 15px;
+
+}
+.pagetitle{
+    color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .patients_background{
                     background-color:#00ccb1;
-                    width:17% ;
+                    width:15% ;
                     color: white;
                     border-radius: 10px;
                     padding-left:30px ;
@@ -24,7 +70,7 @@
            }
 .doctor_background{
                      background-color: #3d83df;
-                     width: 17%;
+                     width: 15%;
                      color:whitesmoke ;
                      border-radius: 10px;
                      padding-left:30px ;
@@ -32,7 +78,7 @@
                      padding-top:30px ;
                      padding-bottom:30px ;
                      margin-top: 13px;
-                     margin-left: 310px;
+                     margin-left: 110px;
 
                      
 }           
@@ -50,7 +96,7 @@
 }
 .clinics{
     background-color:#1b2734 ;
-    width: 17%;
+    width: 15%;
     color:whitesmoke ;
     border-radius: 10px;
     padding-left:30px ;
@@ -58,19 +104,19 @@
     padding-top:30px ;
     padding-bottom:30px ;
     margin-top: 13px;
-    margin-left: 310px;
+    margin-left: 110px;
     
 }
 
 .forclinics{
-    padding-top: 170px;
+    padding-top: 70px;
 }
 .sel3{
     border: none;
     background: none;
     color: white;
     text-decoration: underline;
-    margin-top: 80px;
+    margin-top:34px;
 }
 .sel3 option{
     color: black;
