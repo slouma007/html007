@@ -1,3 +1,8 @@
+::selection {
+    background: #00b39b;
+    color: #fff;
+    text-shadow: none; 
+}
 .flex{
     display: flex;
 }
@@ -29,8 +34,9 @@ ul{
 .pagetitle{
     color: aqua;
 }
+.par{
 
-
+}
 
 
 
@@ -46,7 +52,7 @@ ul{
 
 .patients_background{
                     background-color:#00ccb1;
-                    width:15% ;
+                    width:25% ;
                     color: white;
                     border-radius: 10px;
                     padding-left:30px ;
@@ -70,7 +76,7 @@ ul{
            }
 .doctor_background{
                      background-color: #3d83df;
-                     width: 15%;
+                     width: 25%;
                      color:whitesmoke ;
                      border-radius: 10px;
                      padding-left:30px ;
@@ -96,7 +102,7 @@ ul{
 }
 .clinics{
     background-color:#1b2734 ;
-    width: 15%;
+    width: 25%;
     color:whitesmoke ;
     border-radius: 10px;
     padding-left:30px ;
@@ -131,3 +137,26 @@ ul{
 .sel4 option{
     color: black;
 }
+.titr{
+    color: #00ccb1;
+    margin-top: 20px;
+}
+.phot{
+    display: flex;
+    align-content: flex-start;
+}
+.wars01{
+    
+    background-color: white;
+    width: 25%;
+    height: 50%;   
+
+}
+.wars1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
