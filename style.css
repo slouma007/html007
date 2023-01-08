@@ -33,22 +33,7 @@ ul{
 }
 .pagetitle{
     color: aqua;
-}
-.par{
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
+ }
 
 .patients_background{
                     background-color:#00ccb1;
@@ -137,6 +122,38 @@ ul{
 .sel4 option{
     color: black;
 }
+.glo1{ 
+float: left;
+width: 33%;
+font-size: 1.625em;
+margin: 0.25em 0 0.35em;
+padding-right: 1em;
+color: #00b39b;
+
+}
+.glo{
+    display:flex
+    font-size: 1rem;
+    display: inline-block;
+    margin-top: 0;
+    padding: 5px 0 5px 5px;
+    width: 25%;
+    
+}
+.gipo{
+    height: 14px;
+    width: 30px;
+}
+
+
+
+
+
+
+
+
+
+
 .titr{
     color: #00ccb1;
     margin-top: 20px;
